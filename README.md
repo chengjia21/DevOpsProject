@@ -28,7 +28,7 @@
 
 
 
-### Attempt on implementing CI/CD via Docker, GOogle Cloud Shell & Github Actions
+### Attempt on implementing CI/CD for node.js applications, using Docker, Google Cloud Shell & Github Actions
 
 
 ## Steps
