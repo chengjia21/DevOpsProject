@@ -22,3 +22,28 @@
 5) The index.md file was successfully displayed in HTML, using the Jekyll theme (Merlot) when accessing the https://chengjia21.github.io/devopspage.github.io/ website
 
 6) Testing: Amended the index.md file by adding a test list to see if CI/CD process is working. Also tried changing the Github Page & Repo name to see if the new title of the site would be reflected in the website's title (The red banner on top of the site). Tests successful as the code changes were deployed and shown in the HTML Page. 
+
+
+
+
+
+
+### Attempt on implementing CI/CD via Docker, GOogle Cloud Shell & Github Actions
+
+
+## Steps
+1) Forked from github.com/hellojoechip/nodejs-api 
+
+2) Tried creating a new workflow, using this existing workflow template to create a Docker image:
+
+Docker image
+By GitHub Actions
+
+Build a Docker image to deploy, run, or push to a registry.
+Docker image logo
+docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+
+
+3) Set up Github Secrets for the variables GCP_EMAIL, GCP_CREDENTIALS, etc
+
+4) Attempted to try Google Cloud Shell to run/deploy the project, but was unsuccessful.
