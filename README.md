@@ -5,7 +5,7 @@
 
 ### Aims : 
 
-1. To create a Markdown to HTML converter via Github Pages, whereby a source file in the Markdown format (index.md) can be displayed in HTML format in a browser (URL : https://chengjia21.github.io/chengjiadevops.github.io/).
+1. To create a Markdown to HTML converter via Github Pages, whereby a source file in the Markdown format (index.md) can be displayed in HTML format in a browser (URL : https://chengjia21.github.io/devopspage.github.io/).
 
 2. To have continuous integration/deployment, such that code changes made anytime to the index.md file are continuously deployed to the end user (the viewer of the Github Page)
 
@@ -19,6 +19,6 @@
 
 4) Added Jekyll theme to Github Pages (Merlot Theme)
 
-5) The index.md file was successfully displayed in HTML, using the Jekyll theme (Merlot) when accessing the https://chengjia21.github.io/chengjiadevops.github.io/ website
+5) The index.md file was successfully displayed in HTML, using the Jekyll theme (Merlot) when accessing the https://chengjia21.github.io/devopspage.github.io/ website
 
-6) Amended the index.md file by adding a test list to see if CI/CD process is working. Test successful as the code changes were deployed and shown in the HTML Github Page.
+6) Testing: Amended the index.md file by adding a test list to see if CI/CD process is working. Also tried changing the Github Page & Repo name to see if the new title of the site would be reflected in the website's title (The red banner on top of the site). Tests successful as the code changes were deployed and shown in the HTML Page. 
