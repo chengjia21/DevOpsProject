@@ -34,7 +34,7 @@
 ## Steps
 1) Forked from github.com/hellojoechip/nodejs-api 
 
-2) Tried creating a new workflow, using this existing workflow templates to create a Docker image:
+2) Tried creating a new workflow, using this existing workflow template to create a Docker image:
 
 Docker image
 By GitHub Actions
