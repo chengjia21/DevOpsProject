@@ -59,10 +59,15 @@ Build a Docker image to deploy, run, or push to a registry.
 Docker image logo
 docker build . --file Dockerfile --tag my-image-name:$(date +%s)
 
+3) Successfully built Docker image from Github Actions
 
-3) Set up Github Secrets for the variables GCP_EMAIL, GCP_CREDENTIALS, etc
+![Screenshot of docker build](https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(719).png)
+ 
 
-4) Attempted to try Google Cloud Shell to run/deploy the project, but was unsuccessful.
+
+4) Set up Github Secrets for the variables GCP_EMAIL, GCP_CREDENTIALS, etc
+
+5) Attempted to try Google Cloud Shell to run/deploy the project, but was unsuccessful.
 
 
 ![Google Cloud Shell image](https://github.com/chengjia21/devopspage.github.io/blob/main/Screenshot%20(711).png)
