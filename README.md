@@ -59,6 +59,8 @@ Build a Docker image to deploy, run, or push to a registry.
 Docker image logo
 docker build . --file Dockerfile --tag my-image-name:$(date +%s)
 
+<br>
+
 3) Successfully built Docker image from Github Actions
 
 ![Screenshot of docker build](https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(719).png)
