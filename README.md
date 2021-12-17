@@ -23,7 +23,7 @@
 
 6) Testing: Amended the index.md file by adding a test list to see if CI/CD process is working. Also tried changing the Github Page & Repo name to see if the new title of the site would be reflected in the website's title (The red banner on top of the site). Tests successful as the code changes were deployed and shown in the HTML Page. 
 
-
+7) Added screenshots to the 
 
 
 <br>
@@ -55,3 +55,5 @@ docker build . --file Dockerfile --tag my-image-name:$(date +%s)
 3) Set up Github Secrets for the variables GCP_EMAIL, GCP_CREDENTIALS, etc
 
 4) Attempted to try Google Cloud Shell to run/deploy the project, but was unsuccessful.
+
+![This is an image]https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(708).png
