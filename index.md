@@ -16,4 +16,4 @@ This is a markdown file (index.md) displayed in HTML
 
 ### Little jungle house 🏡 on terraria 🌲
 
-![Terraria jungle house image](https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(501).png)
+![Terraria jungle house image](/Assets/Screenshot%20(501).png)
