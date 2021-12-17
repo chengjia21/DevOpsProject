@@ -29,7 +29,7 @@
 <br>
 ### Future possibilities and potential of Github Pages
 1) Creating scheduled posts on Github Pages via Github Actions. (Need Github access token? Create .yml file, cron syntax for scheduling) 
-2) Create customized email notifications upon successful publishing on the Github Page 
+2) Create customized email notifications upon successful publishing on the Github Page (currently already have page build failure email notifications)
 3) Incorporating Javascript into Github Pages, utilizing the CI/CD functionality of Github Pages
 
 
