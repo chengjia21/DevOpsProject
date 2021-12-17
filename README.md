@@ -23,7 +23,7 @@
 
 6) Testing: Amended the index.md file by adding a test list to see if CI/CD process is working. Also tried changing the Github Page & Repo name to see if the new title of the site would be reflected in the website's title (The red banner on top of the site). Tests successful as the code changes were deployed and shown in the HTML Page. 
 
-7) Added screenshots to the 
+7) Added screenshots to the Readme.md and images into the live Github Page site. Decorated the site with some emojis.
 
 
 <br>
