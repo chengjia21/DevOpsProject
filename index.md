@@ -2,9 +2,18 @@
 
 This is a markdown file (index.md) displayed in HTML
 
-Test list 
-1. Apples
-2. Oranges
-3. Grapes
-4. Pears
-5. Blueberries
+
+### Shopping List 🛒
+
+1. Apples 🍎
+2. Oranges 🍊
+3. Grapes 🍇
+4. Pears 🍐
+5. Kiwis 🥝
+
+
+
+
+### Little jungle house 🏡 on terraria 🌲
+
+![Test image of terraria](https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(501).png)
