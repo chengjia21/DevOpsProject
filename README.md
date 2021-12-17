@@ -56,4 +56,4 @@ docker build . --file Dockerfile --tag my-image-name:$(date +%s)
 
 4) Attempted to try Google Cloud Shell to run/deploy the project, but was unsuccessful.
 
-![This is an image]https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(708).png
+![This is an image](https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(708).png)
