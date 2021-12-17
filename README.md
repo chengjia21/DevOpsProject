@@ -44,6 +44,8 @@
 
 2) Tried creating a new workflow, using this existing workflow template to create a Docker image:
 
+![Docker templates image](https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(708).png)
+
 Docker image
 By GitHub Actions
 
@@ -56,4 +58,5 @@ docker build . --file Dockerfile --tag my-image-name:$(date +%s)
 
 4) Attempted to try Google Cloud Shell to run/deploy the project, but was unsuccessful.
 
-![This is an image](https://github.com/chengjia21/devopspage.github.io/blob/main/Assets/Screenshot%20(708).png)
+
+![Google Cloud Shell image](https://github.com/chengjia21/devopspage.github.io/blob/main/Screenshot%20(711).png)
